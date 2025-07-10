@@ -39,3 +39,8 @@ jobs:
 #          curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
 #          chmod +x ./cc-test-reporter
 #          ./cc-test-reporter after-build -r
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 0
+          keep_minimum_runs: 3
