@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-07-10T11:15:49.049982+08:00
+# Date: 2025-07-15T11:23:12.042431+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -6292,6 +6292,7 @@ wujieliulan\.com
 (^|\.)wuw\.red
 \.wwitv\.com
 (^|\.)wwitv\.com
+(^|\.)www\.xicons\.org
 (^|\.)x\.ai
 (^|\.)xt\.com
 (^|\.)xt\.pub
