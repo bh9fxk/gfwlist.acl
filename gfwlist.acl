@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-07-30T11:27:13.456507+08:00
+# Date: 2025-08-04T11:47:42.227356+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -6102,6 +6102,8 @@ vraiesagesse\.net
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
 (^|\.)vuku\.cc
+(^|\.)wxw\.moe
+(^|\.)wxw\.cat
 (^|\.)walletconnect\.com
 (^|\.)work2icu\.org
 (^|\.)wikiless\.funami\.tech
