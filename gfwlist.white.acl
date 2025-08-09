@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-08-08T11:27:28.577093+08:00
+# Date: 2025-08-09T11:13:45.239659+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -729,6 +729,7 @@ bloomberg\.de
 \.zzux\.com
 (^|\.)workers\.dev
 (^|\.)one\.one\.one\.one
+(^|\.)cloudflare-dns\.com
 \.3d-game\.com
 \.4irc\.com
 \.b0ne\.com
@@ -1569,6 +1570,7 @@ azerimix\.com
 (^|\.)azirevpn\.com
 boxun.+\.azurewebsites\.net
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)bitget\.com
 (^|\.)blackmagicdesign\.com
 (^|\.)bearteach\.com
 (^|\.)btbtt\.me
@@ -5853,6 +5855,7 @@ twurl\.nl
 (^|\.)blog\.expofutures\.com
 (^|\.)contests\.twilio\.com
 (^|\.)typora\.io
+(^|\.)upbit\.com
 (^|\.)demo\.unlock-music\.dev
 \.u9un\.com
 (^|\.)u9un\.com
