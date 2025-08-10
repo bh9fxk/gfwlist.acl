@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-08-09T11:13:45.239659+08:00
+# Date: 2025-08-10T11:27:32.264033+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -4161,6 +4161,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)maven\.neoforged\.net
 (^|\.)nftstorage\.link
 (^|\.)newindianexpress\.com
 (^|\.)news18\.com
