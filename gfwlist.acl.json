@@ -4887,6 +4887,7 @@
         "rutube\\.ru",
         "\\.rxhj\\.net",
         "^rxhj\\.net",
+        "(^|\\.)swapspace\\.co",
         "(^|\\.)storry\\.tv",
         "(^|\\.)standard\\.co\\.uk",
         "(^|\\.)sagernet\\.org",
