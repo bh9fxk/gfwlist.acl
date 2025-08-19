@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-08-17T11:18:35.045276+08:00
+# Date: 2025-08-19T11:04:10.138224+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2228,6 +2228,8 @@ cyberghostvpn\.com
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)deno\.dev
+(^|\.)docs\.deno\.com
 (^|\.)doom9\.org
 (^|\.)dweb\.link
 (^|\.)docker\.io
@@ -2597,6 +2599,7 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
+(^|\.)furrybar\.com
 (^|\.)forbes\.com
 (^|\.)financialexpress\.com
 (^|\.)fast\.com
@@ -4168,6 +4171,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)naver\.com
 (^|\.)maven\.neoforged\.net
 (^|\.)nftstorage\.link
 (^|\.)newindianexpress\.com
