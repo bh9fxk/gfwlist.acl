@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-08-19T11:04:10.138224+08:00
+# Date: 2025-08-21T11:01:31.724777+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -5871,6 +5871,7 @@ twurl\.nl
 (^|\.)blog\.expofutures\.com
 (^|\.)contests\.twilio\.com
 (^|\.)typora\.io
+(^|\.)udomain\.hk
 (^|\.)upbit\.com
 (^|\.)demo\.unlock-music\.dev
 \.u9un\.com
@@ -6659,7 +6660,6 @@ writer\.zoho\.com
 (^|\.)tools\.google\.com
 (^|\.)clientservices\.googleapis\.com
 (^|\.)fonts\.googleapis\.com
-(^|\.)storage\.googleapis\.com
 (^|\.)update\.googleapis\.com
 (^|\.)safebrowsing\.googleapis\.com
 (^|\.)connectivitycheck\.gstatic\.com
