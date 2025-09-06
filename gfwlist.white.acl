@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-08-31T11:00:30.334000+08:00
+# Date: 2025-09-06T10:45:13.725613+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1571,6 +1571,8 @@ azerimix\.com
 (^|\.)azirevpn\.com
 boxun.+\.azurewebsites\.net
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)bt4gprx\.com
+(^|\.)bt4g\.org
 (^|\.)betterhash\.net
 (^|\.)binance\.org
 (^|\.)bitget\.com
@@ -3364,6 +3366,7 @@ hxwq\.org
 (^|\.)hypothes\.is
 ebook\.hyread\.com\.tw
 (^|\.)ebook\.hyread\.com\.tw
+(^|\.)ipify\.org
 (^|\.)itiger\.com
 (^|\.)itch\.io
 (^|\.)infura\.io
@@ -5337,6 +5340,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)tanks\.gg
 (^|\.)thehansindia\.com
 (^|\.)rtm\.tnt-ea\.com
 (^|\.)tellapart\.com
@@ -6645,6 +6649,7 @@ writer\.zoho\.com
 (^|\.)download\.syniumsoftware\.com
 (^|\.)haygo\.com
 (^|\.)hiwifi\.com
+(^|\.).+\.ipify\.org
 (^|\.)music\.jwmusic\.org
 (^|\.)www\.kodingen\.com
 (^|\.)openwrt\.org\.cn
