@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-09-06T10:45:13.725613+08:00
+# Date: 2025-09-14T10:56:00.715909+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -3915,6 +3915,7 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)mcusercontent\.com
 (^|\.)metamask\.io
 (^|\.)missav\.ws
 (^|\.)news\.mt\.co\.kr
@@ -4911,6 +4912,7 @@ rukor\.org
 rutube\.ru
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)sina\.com\.hk
 (^|\.)swapspace\.co
 (^|\.)storry\.tv
 (^|\.)standard\.co\.uk
@@ -5340,6 +5342,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)talkatone\.com
 (^|\.)tanks\.gg
 (^|\.)thehansindia\.com
 (^|\.)rtm\.tnt-ea\.com
