@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-09-14T10:56:00.715909+08:00
+# Date: 2025-09-20T10:44:57.694528+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2878,6 +2878,8 @@ funp\.com
 (^|\.)fw\.cm
 \.fxcm-chinese\.com
 (^|\.)fxcm-chinese\.com
+(^|\.)garudalinux\.org
+(^|\.)gitlab\.com
 (^|\.)gitlab\.net
 ^gmp4\.com
 (^|\.)getsession\.org
@@ -4181,6 +4183,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)nirsoft\.net
 (^|\.)naver\.com
 (^|\.)maven\.neoforged\.net
 (^|\.)nftstorage\.link
@@ -5985,6 +5988,7 @@ uyghur\.co\.uk
 (^|\.)uyghurtribunal\.com
 uygur\.org
 ^uymaarip\.com$
+(^|\.)vpsxb\.net
 (^|\.)vilanet\.me
 (^|\.)vewas\.net
 (^|\.)v2\.help
