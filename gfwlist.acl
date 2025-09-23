@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-09-21T11:01:07.256814+08:00
+# Date: 2025-09-23T10:51:17.476322+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -4371,6 +4371,7 @@ nylon-angel\.com
 nylonstockingsonline\.com
 (^|\.)nypost\.com
 \.nzchinese\.com
+(^|\.)octocaptcha\.com
 (^|\.)oojj\.de
 (^|\.)onevps\.com
 (^|\.)onedrive\.com
@@ -4468,6 +4469,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)api\.palworldgame\.com
 (^|\.)pewresearch\.org
 (^|\.)privacyguides\.org
 (^|\.)pancakeswap\.finance
@@ -5898,7 +5900,6 @@ twurl\.nl
 \.uc-japan\.org
 (^|\.)uc-japan\.org
 ^china\.ucanews\.com$
-(^|\.)uderzo\.it
 \.udn\.com
 (^|\.)udn\.com
 (^|\.)udn\.com\.tw
