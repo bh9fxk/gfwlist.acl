@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-09-23T10:51:17.476322+08:00
+# Date: 2025-09-24T10:53:30.756203+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1848,6 +1848,7 @@ busytrade\.com
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)ctinets\.com
 (^|\.)covenantswatch\.org\.tw
 (^|\.)cpu-monkey\.com
 (^|\.)coffeemanga\.to
@@ -3368,6 +3369,7 @@ hxwq\.org
 (^|\.)hypothes\.is
 ebook\.hyread\.com\.tw
 (^|\.)ebook\.hyread\.com\.tw
+(^|\.)interseclab\.org
 (^|\.)ipify\.org
 (^|\.)itiger\.com
 (^|\.)itch\.io
