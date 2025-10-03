@@ -5341,6 +5341,8 @@
         "\\.sytes\\.net",
         "\\.szbbs\\.net",
         "\\.szetowah\\.org\\.hk",
+        "(^|\\.)tap\\.io",
+        "(^|\\.)taptap\\.io",
         "(^|\\.)talkatone\\.com",
         "(^|\\.)tanks\\.gg",
         "(^|\\.)thehansindia\\.com",
