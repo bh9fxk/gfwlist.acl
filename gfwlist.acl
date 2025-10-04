@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-03T10:49:15.768250+08:00
+# Date: 2025-10-04T10:42:17.736956+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1182,6 +1182,7 @@ zh\.uncyclopedia\.wikia\.com
 (^|\.)yahoo\.com\.tw
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
+(^|\.)996\.icu
 (^|\.)ipfs\.4everland\.io
 (^|\.)91dasai\.com
 (^|\.)i\.111666\.best
