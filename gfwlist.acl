@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-04T10:42:17.736956+08:00
+# Date: 2025-10-05T11:00:58.731084+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -3972,6 +3972,7 @@ maskedip\.com
 ^martsangkagyuofficial\.org
 \.marxist\.com
 (^|\.)marxist\.net
+(^|\.)marxists\.org
 (^|\.)matainja\.com
 (^|\.)matrix\.org
 (^|\.)matters\.town
