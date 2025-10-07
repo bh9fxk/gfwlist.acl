@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-05T11:00:58.731084+08:00
+# Date: 2025-10-07T10:51:05.227088+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -5995,6 +5995,7 @@ uyghur\.co\.uk
 (^|\.)uyghurtribunal\.com
 uygur\.org
 ^uymaarip\.com$
+(^|\.)vimeocdn\.com
 (^|\.)vpsxb\.net
 (^|\.)vilanet\.me
 (^|\.)vewas\.net
