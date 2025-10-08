@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-07T10:51:05.227088+08:00
+# Date: 2025-10-08T10:51:33.124767+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -4921,6 +4921,7 @@ rukor\.org
 rutube\.ru
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)solscan\.io
 (^|\.)sina\.com\.hk
 (^|\.)swapspace\.co
 (^|\.)storry\.tv
