@@ -45,3 +45,11 @@ jobs:
         with:
           retain_days: 0
           keep_minimum_runs: 3
+      - name: Delete old Releases
+        uses: dev-drprasad/delete-older-releases@v0.3.4
+        if: env.UPLOAD_RELEASE == 'true' && !cancelled()
+        with:
+          keep_latest: 6
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
