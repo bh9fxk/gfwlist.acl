@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-10-23T10:57:15.082116+08:00
+# Date: 2025-11-07T20:29:34.941533+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2608,6 +2608,7 @@ eyevio\.jp
 \.eyny\.com
 (^|\.)eyny\.com
 \.ezpeer\.com
+(^|\.)flexclip\.com
 (^|\.)freegpt\.tech
 (^|\.)freegpt\.es
 (^|\.)feedly\.com
@@ -4478,6 +4479,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)images\.prismic\.io
 (^|\.)api\.palworldgame\.com
 (^|\.)pewresearch\.org
 (^|\.)privacyguides\.org
@@ -5357,6 +5359,7 @@ sysresccd\.org
 \.sytes\.net
 \.szbbs\.net
 \.szetowah\.org\.hk
+(^|\.)temu\.com
 (^|\.)trustwallet\.com
 (^|\.)tap\.io
 (^|\.)taptap\.io
