@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-18T11:05:08.888110+08:00
+# Date: 2025-11-19T11:04:38.314414+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1315,6 +1315,7 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)ai\.dev
 (^|\.)adguard-vpn\.com
 (^|\.)aoxvpn\.com
 (^|\.)asianfanfics\.com
