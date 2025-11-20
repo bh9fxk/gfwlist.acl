@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-19T11:04:38.314414+08:00
+# Date: 2025-11-20T11:02:44.797113+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -288,6 +288,7 @@
 50.7.31.230:8898
 174.142.105.153
 69.65.19.160
+(^|\.)xn--9iqy04a7fi01l\.com
 (^|\.)xn--u2u927b\.com
 (^|\.)xn--11xs86f\.icu
 (^|\.)xn--4gq171p\.com
@@ -728,6 +729,7 @@ bloomberg\.de
 \.yourtrap\.com
 \.zyns\.com
 \.zzux\.com
+(^|\.)cloudflarestatus\.com
 (^|\.)workers\.dev
 (^|\.)one\.one\.one\.one
 (^|\.)cloudflare-dns\.com
@@ -3777,6 +3779,7 @@ kyohk\.net
 (^|\.)kzaobao\.com
 \.kzeng\.info
 (^|\.)kzeng\.info
+(^|\.)library-access\.sk
 (^|\.)linux\.do
 (^|\.)lmarena\.ai
 (^|\.)lexica\.art
@@ -3939,6 +3942,8 @@ lvhai\.org
 (^|\.)lzjscript\.com
 \.lzmtnews\.org
 (^|\.)lzmtnews\.org
+(^|\.)mij\.rip
+(^|\.)mji\.rip
 (^|\.)mjj\.rip
 (^|\.)mcusercontent\.com
 (^|\.)metamask\.io
