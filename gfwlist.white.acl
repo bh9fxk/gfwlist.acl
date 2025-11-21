@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-20T11:02:44.797113+08:00
+# Date: 2025-11-21T11:03:34.666336+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2897,6 +2897,7 @@ funp\.com
 (^|\.)fw\.cm
 \.fxcm-chinese\.com
 (^|\.)fxcm-chinese\.com
+(^|\.)greatfirevpn\.com
 (^|\.)garudalinux\.org
 (^|\.)about\.gitlab\.com
 (^|\.)gitlab\.net
@@ -6181,6 +6182,7 @@ vraiesagesse\.net
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
 (^|\.)vuku\.cc
+(^|\.)wikiunblocked\.org
 (^|\.)websdr\.org
 (^|\.)wikipedia\.com
 (^|\.)wxw\.moe
