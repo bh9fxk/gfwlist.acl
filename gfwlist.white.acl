@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-22T10:57:12.098349+08:00
+# Date: 2025-11-23T11:18:46.470983+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2960,7 +2960,7 @@ gardennetworks\.com
 gdzf\.org
 (^|\.)geek-art\.net
 \.gekikame\.com
-^gekikame\.com
+(^|\.)gekikame\.com
 \.gelbooru\.com
 ^gelbooru\.com
 (^|\.)generated\.photos
@@ -4212,6 +4212,7 @@ mysinablog\.com
 (^|\.)myspacecdn\.com
 \.mytalkbox\.com
 \.mytizi\.com
+(^|\.)namu\.wiki
 (^|\.)nirsoft\.net
 (^|\.)naver\.com
 (^|\.)maven\.neoforged\.net
@@ -4499,6 +4500,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)picsart\.com
 (^|\.)images\.prismic\.io
 (^|\.)api\.palworldgame\.com
 (^|\.)pewresearch\.org
