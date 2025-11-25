@@ -9,13 +9,12 @@ on:
     - cron: "0 2 * * *"
 jobs:
   build:
-    # runs-on: ubuntu-latest
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v5.0.1
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.13'   # 指定python版本
       - name: Install dependencies
         run: pip install -r dev-requirements.txt
       - name: Setup git user
