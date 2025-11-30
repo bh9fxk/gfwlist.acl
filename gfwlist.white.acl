@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-23T11:18:46.470983+08:00
+# Date: 2025-11-30T16:26:45.355590+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -6554,6 +6554,7 @@ yx51\.net
 (^|\.)yysub\.net
 \.yzzk\.com
 (^|\.)yzzk\.com
+(^|\.)zaochenbao\.com
 (^|\.)z-library\.ec
 (^|\.)z-library\.sk
 (^|\.)z-lib\.fm
