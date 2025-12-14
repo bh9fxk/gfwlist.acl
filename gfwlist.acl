@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-11-30T16:26:45.355590+08:00
+# Date: 2025-12-14T11:20:15.954641+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1317,6 +1317,7 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)anuneko\.com
 (^|\.)ai\.dev
 (^|\.)adguard-vpn\.com
 (^|\.)aoxvpn\.com
@@ -3588,6 +3589,7 @@ ithelp\.ithome\.com\.tw
 \.izaobao\.us
 \.izles\.net
 \.izlesem\.org
+(^|\.)jhelab\.org
 (^|\.)justmysockscn\.com
 (^|\.)justmysocks\.net
 (^|\.)jav321\.com
@@ -4500,6 +4502,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)podwise\.ai
 (^|\.)picsart\.com
 (^|\.)images\.prismic\.io
 (^|\.)api\.palworldgame\.com
@@ -4811,6 +4814,8 @@ qoos\.com
 \.quranexplorer\.com
 qusi8\.net
 qxbbs\.org
+(^|\.)radiojar\.com
+(^|\.)radio\.co
 (^|\.)rustdesk\.com
 (^|\.)rentry\.co
 (^|\.)radmin-vpn\.com
