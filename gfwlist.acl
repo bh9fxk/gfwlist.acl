@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-12-25T11:18:28.371599+08:00
+# Date: 2025-12-27T11:15:05.883893+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -839,7 +839,6 @@ blogspot\.com
 (^|\.)chromecast\.com
 (^|\.)chromeexperiments\.com
 (^|\.)chromestatus\.com
-(^|\.)chromium\.org
 (^|\.)cloudfunctions\.net
 (^|\.)crbug\.com
 (^|\.)creativelab5\.com
@@ -1317,6 +1316,7 @@ taiwannation\.50webs\.com
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)aljazeera\.net
 (^|\.)anuneko\.com
 (^|\.)ai\.dev
 (^|\.)adguard-vpn\.com
@@ -2250,8 +2250,6 @@ cyberghostvpn\.com
 (^|\.)nic\.cz\.cc
 (^|\.)darmau\.co
 (^|\.)dockerstatus\.com
-(^|\.)deno\.dev
-(^|\.)docs\.deno\.com
 (^|\.)doom9\.org
 (^|\.)dweb\.link
 (^|\.)docker\.io
@@ -3784,6 +3782,7 @@ kyohk\.net
 (^|\.)kzaobao\.com
 \.kzeng\.info
 (^|\.)kzeng\.info
+(^|\.)lovart\.ai
 (^|\.)library-access\.sk
 (^|\.)linux\.do
 (^|\.)lmarena\.ai
@@ -4962,6 +4961,7 @@ rukor\.org
 rutube\.ru
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)steamladder\.com
 (^|\.)sora\.com
 (^|\.)lt\.sntp\.uk
 (^|\.)solscan\.io
