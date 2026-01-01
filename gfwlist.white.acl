@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2025-12-28T11:28:10.433499+08:00
+# Date: 2026-01-01T11:29:49.890025+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -4506,6 +4506,7 @@ oyax\.com
 (^|\.)ozvoice\.org
 \.ozxw\.com
 \.ozyoyo\.com
+(^|\.)pdst\.fm
 (^|\.)static\.pocketcasts\.com
 (^|\.)partnerstack\.xyz
 (^|\.)podwise\.ai
@@ -5944,6 +5945,7 @@ twurl\.nl
 (^|\.)blog\.expofutures\.com
 (^|\.)contests\.twilio\.com
 (^|\.)typora\.io
+(^|\.)up\.audio
 (^|\.)udomain\.hk
 (^|\.)upbit\.com
 (^|\.)demo\.unlock-music\.dev
