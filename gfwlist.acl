@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-01T11:29:49.890025+08:00
+# Date: 2026-01-03T11:14:14.294427+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -4626,7 +4626,23 @@ picturesocial\.com
 (^|\.)pinimg\.com
 \.pinkrod\.com
 (^|\.)pinoy-n\.com
-(^|\.)pinterest\..+
+(^|\.)pinterest\.com
+(^|\.)pinterest\.com\.mx
+(^|\.)pinterest\.com\.au
+(^|\.)pinterest\.co\.uk
+(^|\.)pinterest\.cl
+(^|\.)pinterest\.ca
+(^|\.)pinterest\.at
+(^|\.)pinterest\.de
+(^|\.)pinterest\.es
+(^|\.)pinterest\.fr
+(^|\.)pinterest\.ie
+(^|\.)pinterest\.it
+(^|\.)pinterest\.jp
+(^|\.)pinterest\.nz
+(^|\.)pinterest\.ph
+(^|\.)pinterest\.pt
+(^|\.)pinterest\.se
 \.pipii\.tv
 piraattilahti\.org
 \.piring\.com
@@ -6724,7 +6740,6 @@ writer\.zoho\.com
 (^|\.)music\.jwmusic\.org
 (^|\.)www\.kodingen\.com
 (^|\.)openwrt\.org\.cn
-(^|\.)pinterest\.cn
 (^|\.)static\.soup\.io
 (^|\.)www\.typepad\.com
 (^|\.)static\.typepad\.com
