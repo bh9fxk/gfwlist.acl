@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-03T11:14:14.294427+08:00
+# Date: 2026-01-05T11:44:59.434770+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -998,8 +998,6 @@ blogspot\.com
 (^|\.)schema\.org
 (^|\.)shattered\.io
 ^sipml5\.org$
-(^|\.)sheets\.new
-(^|\.)slides\.new
 (^|\.)snapseed\.com
 (^|\.)synergyse\.com
 (^|\.)teachparentstech\.org
@@ -1023,7 +1021,6 @@ blogspot\.com
 (^|\.)withgoogle\.com
 (^|\.)withyoutube\.com
 (^|\.)x\.company
-(^|\.)xn--ngstr-lra8j\.com
 (^|\.)youtu\.be
 \.youtube\.com
 (^|\.)youtube\.com
@@ -1513,8 +1510,6 @@ appledaily\.com\.tw
 (^|\.)archive\.fo
 (^|\.)archive\.vn
 (^|\.)archive\.is
-(^|\.)archive\.is
-(^|\.)archive\.li
 (^|\.)archive\.li
 (^|\.)archive\.md
 (^|\.)archive\.org
@@ -1735,7 +1730,6 @@ blewpass\.com
 blinw\.com
 \.blip\.tv
 (^|\.)blip\.tv
-(^|\.)blockcast\.it
 \.blockcn\.com
 (^|\.)blockcn\.com
 (^|\.)blockedbyhk\.com
@@ -1986,7 +1980,6 @@ cdp2006\.org
 (^|\.)cdpeu\.org
 (^|\.)cdpuk\.co\.uk
 (^|\.)cdpweb\.org
-(^|\.)cdpweb\.org
 (^|\.)cdpwu\.org
 (^|\.)cdw\.com
 (^|\.)cecc\.gov
@@ -2175,7 +2168,6 @@ commandarms\.com
 (^|\.)communitychoicecu\.com
 (^|\.)comparitech\.com
 (^|\.)compileheart\.com
-(^|\.)conoha\.jp
 \.contactmagazine\.net
 \.convio\.net
 (^|\.)cool18\.com
@@ -2249,6 +2241,7 @@ cyberghostvpn\.com
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)dazn\.com
 (^|\.)darmau\.co
 (^|\.)dockerstatus\.com
 (^|\.)doom9\.org
@@ -2319,7 +2312,6 @@ dalianmeng\.org
 daolan\.net
 (^|\.)darrenliuwei\.com
 (^|\.)dashlane\.com
-(^|\.)daum\.net
 \.david-kilgour\.com
 ^david-kilgour\.com
 daxa\.cn
@@ -3501,7 +3493,6 @@ website\.informer\.com
 (^|\.)inkbunny\.net
 (^|\.)inkui\.com
 (^|\.)inmediahk\.net
-(^|\.)inmediahk\.net
 (^|\.)inoreader\.com
 (^|\.)inote\.tw
 (^|\.)insecam\.org
@@ -3932,7 +3923,6 @@ lsforum\.net
 (^|\.)lsmkorean\.org
 \.lsmwebcast\.com
 \.ltn\.com\.tw
-(^|\.)ltn\.com\.tw
 (^|\.)luckydesigner\.space
 \.luke54\.com
 \.luke54\.org
@@ -4365,7 +4355,6 @@ nordvpn\.com
 (^|\.)nordvpn\.com
 (^|\.)nos\.nl
 (^|\.)notepad-plus-plus\.org
-(^|\.)now\.com
 (^|\.)nownews\.com
 \.nowtorrents\.com
 (^|\.)npa\.go\.jp
@@ -4407,6 +4396,8 @@ nylon-angel\.com
 nylonstockingsonline\.com
 (^|\.)nypost\.com
 \.nzchinese\.com
+(^|\.)ooni\.io
+(^|\.)ooni\.org
 (^|\.)files\.oaiusercontent\.com
 (^|\.)octocaptcha\.com
 (^|\.)oojj\.de
@@ -4773,7 +4764,6 @@ privatetunnel\.com
 (^|\.)privoxy\.org
 (^|\.)procopytips\.com
 (^|\.)project-syndicate\.org
-(^|\.)proton\.me
 provideocoalition\.com
 (^|\.)prosiben\.de
 proxifier\.com
@@ -4796,7 +4786,6 @@ proxyroad\.com
 (^|\.)main-ecnpaper-economist\.content\.pugpig\.com
 (^|\.)pullfolio\.com
 (^|\.)pureconcepts\.net
-(^|\.)pureinsight\.org
 (^|\.)purepdf\.com
 (^|\.)purevpn\.com
 \.purplelotus\.org
@@ -4998,7 +4987,6 @@ rutube\.ru
 (^|\.)south-plus\.net
 (^|\.)silvergatebank\.com
 (^|\.)share-videos\.se
-(^|\.)ssrshare\.us
 (^|\.)cdn\.statically\.io
 (^|\.)slides\.com
 (^|\.)suno\.com
@@ -5431,7 +5419,6 @@ sysresccd\.org
 (^|\.)tou\.tv
 (^|\.)tinyurl\.com
 (^|\.)textnow\.com
-(^|\.)textnow\.me
 (^|\.)token\.im
 (^|\.)tokenlon\.im
 (^|\.)tardigrade\.io
@@ -6410,6 +6397,7 @@ wujieliulan\.com
 (^|\.)wuw\.red
 \.wwitv\.com
 (^|\.)wwitv\.com
+(^|\.)xcancel\.com
 (^|\.)www\.xicons\.org
 (^|\.)x\.ai
 (^|\.)xt\.com
@@ -6524,7 +6512,6 @@ yegle\.net
 (^|\.)yibaochina\.com
 \.yidio\.com
 (^|\.)yidio\.com
-(^|\.)yigeni\.com
 yilubbs\.com
 (^|\.)s\.yimg\.com
 \.yipub\.com
