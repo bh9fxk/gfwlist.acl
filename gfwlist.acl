@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-06T11:20:51.163725+08:00
+# Date: 2026-01-07T11:20:37.208167+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -797,7 +797,7 @@ bloomberg\.de
 \.ftchinese\.com
 (^|\.)ftchinese\.com
 (^|\.)ai\.studio
-(^|\.)issues\.chromium\.org
+(^|\.)chromium\.org
 (^|\.)goog
 (^|\.)gle
 (^|\.)google
