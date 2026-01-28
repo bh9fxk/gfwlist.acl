@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-21T11:24:11.145866+08:00
+# Date: 2026-01-28T11:26:20.754012+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1858,6 +1858,7 @@ busytrade\.com
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)backend-v2\.crixet\.com
 (^|\.)cchostvps\.xyz
 (^|\.)canva\.com
 (^|\.)chatpdf\.com
