@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-01-28T11:26:20.754012+08:00
+# Date: 2026-01-30T11:57:43.416497+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -227,6 +227,7 @@
 (^|\.)login\.target\.com
 (^|\.)rcam\.target\.com
 (^|\.)technews\.tw
+(^|\.)freeterabox\.com
 (^|\.)terabox\.com
 (^|\.)thinkgeek\.com
 (^|\.)thebodyshop-usa\.com
@@ -4974,6 +4975,7 @@ rukor\.org
 rutube\.ru
 \.rxhj\.net
 ^rxhj\.net
+(^|\.)simianx\.ai
 (^|\.)steamladder\.com
 (^|\.)sora\.com
 (^|\.)lt\.sntp\.uk
