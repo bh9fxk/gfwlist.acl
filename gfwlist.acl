@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-02-01T12:18:25.483885+08:00
+# Date: 2026-02-05T12:02:36.394580+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -731,6 +731,7 @@ bloomberg\.de
 \.zyns\.com
 \.zzux\.com
 (^|\.)cloudflarestatus\.com
+(^|\.)pages\.dev
 (^|\.)workers\.dev
 (^|\.)one\.one\.one\.one
 (^|\.)cloudflare-dns\.com
@@ -1094,6 +1095,7 @@ cn\.nytstyle\.com
 (^|\.)twitter\.jp
 (^|\.)vine\.co
 (^|\.)x\.com
+(^|\.)sef\.org\.tw
 (^|\.)moj\.gov\.tw
 (^|\.)gov\.taipei
 \.gov\.tw
@@ -3135,6 +3137,7 @@ guruonline\.hk
 ^gvlib\.com
 \.gyalwarinpoche\.com
 \.gyatsostudio\.com
+(^|\.)www\.hoyolab\.com
 (^|\.)hbomax\.com
 (^|\.)hicairo\.com
 (^|\.)herominers\.com
