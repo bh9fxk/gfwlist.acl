@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-02-06T12:03:14.423032+08:00
+# Date: 2026-02-07T11:57:19.418217+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1584,6 +1584,7 @@ azerimix\.com
 (^|\.)azirevpn\.com
 boxun.+\.azurewebsites\.net
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)bittorrent\.com
 (^|\.)help\.byspotify\.com
 (^|\.)bitbaby\.com
 (^|\.)bettergpt\.chat
@@ -3138,6 +3139,7 @@ guruonline\.hk
 ^gvlib\.com
 \.gyalwarinpoche\.com
 \.gyatsostudio\.com
+(^|\.)v2\.hysteria\.network
 (^|\.)hembed\.com
 (^|\.)www\.hoyolab\.com
 (^|\.)hbomax\.com
