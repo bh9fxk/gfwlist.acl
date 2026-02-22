@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-02-19T12:07:59.132512+08:00
+# Date: 2026-02-22T12:05:04.745422+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1121,6 +1121,7 @@ iipdigital\.usembassy\.gov
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)akile\.io
 (^|\.)aljazeera\.net
 (^|\.)anuneko\.com
 (^|\.)ai\.dev
@@ -1441,6 +1442,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)www\.clashverge\.dev
 (^|\.)clementine-player\.org
 (^|\.)backend-v2\.crixet\.com
 (^|\.)cchostvps\.xyz
@@ -2575,6 +2577,7 @@ iipdigital\.usembassy\.gov
 ^lyfhk\.net
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
+(^|\.)meee\.com\.tw
 (^|\.)mosavi\.io
 (^|\.)dcs-spotify\.megaphone\.fm
 (^|\.)mij\.rip
@@ -2732,6 +2735,7 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)assets\.nxtrace\.org
 (^|\.)nephobox\.com
 (^|\.)namu\.wiki
 (^|\.)nirsoft\.net
@@ -2834,6 +2838,7 @@ iipdigital\.usembassy\.gov
 (^|\.)nyaa\.si
 (^|\.)nybooks\.com
 (^|\.)nypost\.com
+(^|\.)opencritic\.com
 (^|\.)ooni\.io
 (^|\.)ooni\.org
 (^|\.)files\.oaiusercontent\.com
