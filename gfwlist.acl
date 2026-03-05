@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-03-04T11:57:08.369562+08:00
+# Date: 2026-03-05T12:00:31.870085+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1789,6 +1789,7 @@ iipdigital\.usembassy\.gov
 (^|\.)dwnews\.net
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
+(^|\.)economist\.com
 (^|\.)e621\.net
 (^|\.)edx-cdn\.org
 (^|\.)everipedia\.org
@@ -4104,7 +4105,6 @@ iipdigital\.usembassy\.gov
 (^|\.)z-lib\.io
 (^|\.)z-lib\.org
 (^|\.)zalmos\.com
-(^|\.)zaobao\.com\.sg
 (^|\.)zdnet\.com\.tw
 (^|\.)zello\.com
 (^|\.)zenmate\.com
