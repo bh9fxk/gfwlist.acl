@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-03-25T12:07:43.332212+08:00
+# Date: 2026-03-27T12:23:09.026678+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -283,6 +283,7 @@
 (^|\.)btc\.com
 (^|\.)r-pool\.net
 (^|\.)w-pool\.com
+(^|\.)xn--kcrv3utim32hx9f6qe\.com
 (^|\.)xn--1jqvh729avzfcy2d8ummib\.com
 (^|\.)xn--9iqy04a7fi01l\.com
 (^|\.)xn--u2u927b\.com
