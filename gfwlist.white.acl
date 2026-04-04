@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-03-28T12:07:30.284269+08:00
+# Date: 2026-04-04T12:04:58.706865+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -2852,6 +2852,7 @@ iipdigital\.usembassy\.gov
 (^|\.)nyaa\.si
 (^|\.)nybooks\.com
 (^|\.)nypost\.com
+(^|\.)osmand\.net
 (^|\.)oklink\.com
 (^|\.)okcoin\.com
 (^|\.)opencritic\.com
@@ -4163,7 +4164,6 @@ iipdigital\.usembassy\.gov
 (^|\.)g1\.gstatic\.com
 (^|\.)g0\.gstatic\.com
 (^|\.)checkin\.gstatic\.com
-(^|\.).+\.ipify\.org
 (^|\.)i\.pki\.goog
 (^|\.)c\.pki\.goog
 (^|\.)o\.pki\.goog
