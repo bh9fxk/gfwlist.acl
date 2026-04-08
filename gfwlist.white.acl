@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-04-06T12:33:15.885084+08:00
+# Date: 2026-04-08T12:25:48.119984+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -200,7 +200,6 @@
 (^|\.)primevideo\.com
 (^|\.)proyectoclubes\.com
 (^|\.)pure18\.com
-(^|\.)pytorch\.org
 (^|\.)qq\.co\.za
 (^|\.)r18\.com
 ^radiko\.jp
@@ -657,6 +656,7 @@ www\.aolnews\.com
 (^|\.)duck\.com
 (^|\.)feedburner\.com
 (^|\.)firebaseio\.com
+(^|\.)crashlytics\.com
 (^|\.)g\.co
 (^|\.)gcr\.io
 (^|\.)get\.app
@@ -2594,6 +2594,7 @@ iipdigital\.usembassy\.gov
 ^lyfhk\.net
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
+(^|\.)mistral\.ai
 (^|\.)manus\.im
 (^|\.)meee\.com\.tw
 (^|\.)mosavi\.io
@@ -2641,7 +2642,6 @@ iipdigital\.usembassy\.gov
 (^|\.)mediachinese\.com
 (^|\.)mediafreakcity\.com
 (^|\.)medium\.com
-(^|\.)meetup\.com
 (^|\.)mega\.co\.nz
 (^|\.)mega\.io
 (^|\.)mega\.nz
@@ -4159,6 +4159,7 @@ iipdigital\.usembassy\.gov
 [bypass_list]
 
 (^|\.)www\.gov\.tw
+(^|\.)firebase-settings\.crashlytics\.com
 (^|\.)cn\.investing\.com
 (^|\.)www\.typepad\.com
 (^|\.)static\.typepad\.com
