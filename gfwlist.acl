@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-04-12T12:36:10.400301+08:00
+# Date: 2026-04-15T12:35:07.092138+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -538,15 +538,7 @@
 (^|\.)mastodon\.online
 (^|\.)payments-jp\.amazon\.com
 (^|\.)amazon\.co\.jp
-(^|\.)s3-ap-.+\.amazonaws\.com
-(^|\.)s3\.eu-central-1\.amazonaws\.com
-(^|\.)s3-eu-central-1\.amazonaws\.com
-(^|\.)s3\.us-east-1\.amazonaws\.com
-(^|\.)s3-ap-northeast-2\.amazonaws\.com
-(^|\.)s3\.ap-northeast-2\.amazonaws\.com
 (^|\.)s3-ap-northeast-1\.amazonaws\.com
-(^|\.)s3-ap-southeast-1\.amazonaws\.com
-(^|\.)s3-ap-southeast-2\.amazonaws\.com
 (^|\.)video\.aol\.com
 (^|\.)search\.aol\.com
 www\.aolnews\.com
@@ -1175,7 +1167,6 @@ iipdigital\.usembassy\.gov
 (^|\.)aiosearch\.com
 (^|\.)aiph\.net
 (^|\.)airconsole\.com
-^download\.aircrack-ng\.org
 (^|\.)airvpn\.org
 (^|\.)ait\.org\.tw
 (^|\.)aiweiweiblog\.com
@@ -2220,8 +2211,6 @@ iipdigital\.usembassy\.gov
 ^hitomi\.la
 ^hk-pub\.com
 (^|\.)hk01\.com
-(^|\.)hkacg\.com
-(^|\.)hkacg\.net
 (^|\.)hkbookcity\.com
 (^|\.)hkchronicles\.com
 (^|\.)hkcnews\.com
@@ -2738,7 +2727,6 @@ iipdigital\.usembassy\.gov
 (^|\.)mullvad\.net
 (^|\.)muzi\.com
 (^|\.)muzi\.net
-(^|\.)mx981\.com
 (^|\.)my-private-network\.co\.uk
 (^|\.)myaudiocast\.com
 (^|\.)bbs\.mychat\.to
@@ -2854,6 +2842,7 @@ iipdigital\.usembassy\.gov
 (^|\.)nyaa\.si
 (^|\.)nybooks\.com
 (^|\.)nypost\.com
+(^|\.)openart\.ai
 (^|\.)osmand\.net
 (^|\.)oklink\.com
 (^|\.)okcoin\.com
@@ -3873,7 +3862,6 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
-(^|\.)vuku\.cc
 (^|\.)wispbyte\.com
 (^|\.)walletconnect\.org
 (^|\.)wallzhihu\.com
@@ -4034,7 +4022,6 @@ iipdigital\.usembassy\.gov
 ^xing\.com
 (^|\.)xinjiangpolicefiles\.org
 (^|\.)xinmiao\.com\.hk
-(^|\.)xjp\.cc
 (^|\.)xjtravelguide\.com
 (^|\.)xml-training-guide\.com
 (^|\.)xnxx\.com
