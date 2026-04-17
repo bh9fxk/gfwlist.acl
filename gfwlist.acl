@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-04-15T12:35:07.092138+08:00
+# Date: 2026-04-17T12:38:37.660153+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1117,6 +1117,7 @@ iipdigital\.usembassy\.gov
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)avistaz\.to
 (^|\.)annas-archive\.gd
 (^|\.)annas-archive\.gl
 (^|\.)annas-archive\.pk
