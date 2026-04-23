@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-04-17T12:38:37.660153+08:00
+# Date: 2026-04-23T12:40:49.714952+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -213,7 +213,6 @@
 (^|\.)shiksha\.com
 (^|\.)slacker\.com
 (^|\.)sm-miracle\.com
-(^|\.)soylentnews\.org
 (^|\.)spotify\.com
 (^|\.)spreadshirt\.es
 (^|\.)springboardplatform\.com
@@ -595,7 +594,7 @@ www\.aolnews\.com
 (^|\.)ftchinese\.com
 (^|\.)google\.dev
 (^|\.)ai\.studio
-(^|\.)chromium\.org
+(^|\.)issues\.chromium\.org
 (^|\.)goog
 (^|\.)gle
 (^|\.)google
@@ -1117,6 +1116,7 @@ iipdigital\.usembassy\.gov
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)asiasociety\.org
 (^|\.)avistaz\.to
 (^|\.)annas-archive\.gd
 (^|\.)annas-archive\.gl
@@ -1282,6 +1282,7 @@ iipdigital\.usembassy\.gov
 (^|\.)axureformac\.com
 (^|\.)azirevpn\.com
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)bellingcat\.com
 (^|\.)bittorrent\.com
 (^|\.)help\.byspotify\.com
 (^|\.)bitbaby\.com
@@ -1790,6 +1791,7 @@ iipdigital\.usembassy\.gov
 (^|\.)dwnews\.net
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
+(^|\.)app\.element\.io
 (^|\.)economist\.com
 (^|\.)e621\.net
 (^|\.)edx-cdn\.org
@@ -2498,6 +2500,7 @@ iipdigital\.usembassy\.gov
 (^|\.)kxsw\.life
 (^|\.)kzaobao\.com
 (^|\.)kzeng\.info
+(^|\.)lantern\.io
 (^|\.)lovart\.ai
 (^|\.)library-access\.sk
 (^|\.)linux\.do
@@ -3114,6 +3117,9 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)rawstory\.com
+(^|\.)recordedfuture\.com
+(^|\.)roblox\.com
 (^|\.)radiojar\.com
 (^|\.)radio\.co
 (^|\.)rustdesk\.com
@@ -3434,6 +3440,7 @@ iipdigital\.usembassy\.gov
 (^|\.)sydneytoday\.com
 (^|\.)sylfoundation\.org
 (^|\.)syncback\.com
+(^|\.)thinkchina\.sg
 (^|\.)tor\.eff\.org
 (^|\.)tails\.net
 (^|\.)bbc\.pdn\.tritondigital\.com
