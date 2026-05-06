@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-05-04T13:21:50.216303+08:00
+# Date: 2026-05-06T13:16:58.950415+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -294,6 +294,7 @@
 (^|\.)xn--p8j9a0d9c9a\.xn--q9jyb4c
 (^|\.)xn--9pr62r24a\.com
 (^|\.)xn--ngstr-lra8j\.com
+(^|\.)music\.amazon\.com
 (^|\.)cdn-images\.mailchimp\.com
 (^|\.)abebooks\.com
 (^|\.)9cache\.com
@@ -1112,6 +1113,7 @@ iipdigital\.usembassy\.gov
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)acg\.mn
 (^|\.)asiasociety\.org
 (^|\.)avistaz\.to
 (^|\.)annas-archive\.gd
@@ -1278,6 +1280,8 @@ iipdigital\.usembassy\.gov
 (^|\.)axureformac\.com
 (^|\.)azirevpn\.com
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)boomplay\.com
+(^|\.)bleepingcomputer\.com
 (^|\.)bellingcat\.com
 (^|\.)bittorrent\.com
 (^|\.)help\.byspotify\.com
@@ -1437,6 +1441,8 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)ctinsider\.com
+(^|\.)cnbc\.com
 (^|\.)cia\.gov
 (^|\.)claude\.com
 (^|\.)www\.clashverge\.dev
@@ -1787,6 +1793,7 @@ iipdigital\.usembassy\.gov
 (^|\.)dwnews\.net
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
+(^|\.)edigest\.hk
 (^|\.)app\.element\.io
 (^|\.)economist\.com
 (^|\.)e621\.net
@@ -2150,6 +2157,7 @@ iipdigital\.usembassy\.gov
 (^|\.)gumroad\.com
 (^|\.)gunsamerica\.com
 ^gvlib\.com
+(^|\.)hive\.blog
 (^|\.)v2\.hysteria\.network
 (^|\.)hembed\.com
 (^|\.)www\.hoyolab\.com
@@ -2277,6 +2285,7 @@ iipdigital\.usembassy\.gov
 (^|\.)hyperrate\.com
 (^|\.)hypothes\.is
 (^|\.)ebook\.hyread\.com\.tw
+(^|\.)infosec\.exchange
 (^|\.)investing\.com
 (^|\.)idcflare\.com
 (^|\.)interseclab\.org
@@ -2446,6 +2455,7 @@ iipdigital\.usembassy\.gov
 (^|\.)justmysocks1\.net
 (^|\.)juziyue\.com
 (^|\.)cdn\.jwplayer\.com
+(^|\.)kathmandupost\.com
 (^|\.)kingkong\.com\.tw
 (^|\.)kanald\.com\.tr
 (^|\.)kpkuang\.org
@@ -2496,6 +2506,8 @@ iipdigital\.usembassy\.gov
 (^|\.)kxsw\.life
 (^|\.)kzaobao\.com
 (^|\.)kzeng\.info
+(^|\.)libgen\.is
+(^|\.)lemonde\.fr
 (^|\.)lantern\.io
 (^|\.)lovart\.ai
 (^|\.)library-access\.sk
@@ -2581,6 +2593,8 @@ iipdigital\.usembassy\.gov
 ^lyfhk\.net
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
+(^|\.)mjj\.today
+(^|\.)mediamatters\.org
 (^|\.)mistral\.ai
 (^|\.)manus\.im
 (^|\.)meee\.com\.tw
@@ -2739,6 +2753,10 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)nfscofficial\.com
+(^|\.)nfsc\.press
+(^|\.)newstimes\.com
+(^|\.)newshub\.co\.nz
 (^|\.)assets\.nxtrace\.org
 (^|\.)nephobox\.com
 (^|\.)namu\.wiki
@@ -2842,6 +2860,7 @@ iipdigital\.usembassy\.gov
 (^|\.)nyaa\.si
 (^|\.)nybooks\.com
 (^|\.)nypost\.com
+(^|\.)overdrive\.com
 (^|\.)openart\.ai
 (^|\.)osmand\.net
 (^|\.)oklink\.com
@@ -2910,6 +2929,7 @@ iipdigital\.usembassy\.gov
 ^www\.oxid\.it
 (^|\.)ow\.ly
 (^|\.)ozvoice\.org
+(^|\.)penguin\.com\.au
 (^|\.)prompthero\.com
 (^|\.)pdst\.fm
 (^|\.)static\.pocketcasts\.com
@@ -3113,6 +3133,7 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)rts\.ch
 (^|\.)rawstory\.com
 (^|\.)recordedfuture\.com
 (^|\.)roblox\.com
@@ -3204,6 +3225,7 @@ iipdigital\.usembassy\.gov
 (^|\.)rutracker\.net
 (^|\.)rutracker\.org
 ^rxhj\.net
+(^|\.)sinchew\.com\.my
 (^|\.)softether\.co\.jp
 (^|\.)shitjournal\.org
 (^|\.)spacex\.com
@@ -3437,6 +3459,10 @@ iipdigital\.usembassy\.gov
 (^|\.)sydneytoday\.com
 (^|\.)sylfoundation\.org
 (^|\.)syncback\.com
+(^|\.)tvdy1\.com
+(^|\.)tgstat\.com
+(^|\.)the-sun\.com
+(^|\.)theweek\.com
 (^|\.)techbang\.com
 (^|\.)thinkchina\.sg
 (^|\.)tor\.eff\.org
@@ -3794,6 +3820,7 @@ iipdigital\.usembassy\.gov
 (^|\.)uyghurstudies\.org
 (^|\.)uyghurtribunal\.com
 ^uymaarip\.com$
+(^|\.)vox\.com
 (^|\.)vimeocdn\.com
 (^|\.)vpsxb\.net
 (^|\.)vilanet\.me
@@ -3869,6 +3896,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)worldjournal\.com
 (^|\.)wispbyte\.com
 (^|\.)walletconnect\.org
 (^|\.)wallzhihu\.com
