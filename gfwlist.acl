@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-05-23T13:30:08.784501+08:00
+# Date: 2026-05-25T14:14:14.340077+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2737,6 +2737,7 @@ iipdigital\.usembassy\.gov
 ^motherless\.com
 (^|\.)movements\.org
 (^|\.)moviefap\.com
+(^|\.)mozilla\.ai
 (^|\.)www\.moztw\.org
 (^|\.)mpettis\.com
 (^|\.)mpfinance\.com
