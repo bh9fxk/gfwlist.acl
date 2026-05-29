@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-05-28T13:58:36.021689+08:00
+# Date: 2026-05-29T14:01:41.609945+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -353,7 +353,6 @@
 (^|\.)line-scdn\.net
 (^|\.)i\.lithium\.com
 (^|\.)cloud\.mail\.ru
-(^|\.)cdn-images\.mailchimp\.com
 (^|\.)mastodon\.cloud
 (^|\.)mastodon\.host
 (^|\.)mastodon\.social
@@ -1444,7 +1443,6 @@ iipdigital\.usembassy\.gov
 (^|\.)bypasscensorship\.org
 (^|\.)chonglangtv\.org
 (^|\.)ctinsider\.com
-(^|\.)cnbc\.com
 (^|\.)cia\.gov
 (^|\.)claude\.com
 (^|\.)www\.clashverge\.dev
@@ -3381,7 +3379,6 @@ iipdigital\.usembassy\.gov
 (^|\.)sockslist\.net
 ^socrec\.org
 (^|\.)softether\.org
-(^|\.)softether-download\.com
 (^|\.)cdn\.softlayer\.net
 (^|\.)sogclub\.com
 (^|\.)sohcradio\.com
@@ -4118,7 +4115,6 @@ iipdigital\.usembassy\.gov
 ^yeyeclub\.com
 (^|\.)yhcw\.net
 (^|\.)yibaochina\.com
-(^|\.)yidio\.com
 (^|\.)s\.yimg\.com
 (^|\.)yipub\.com
 (^|\.)yizhihongxing\.com
@@ -4191,6 +4187,10 @@ iipdigital\.usembassy\.gov
 (^|\.)zuola\.com
 (^|\.)zvereff\.com
 (^|\.)zyxel\.com
+(^|\.)veed\.io
+(^|\.)gencraft\.com
+(^|\.)hiddify\.com
+(^|\.)as\.mr
 
 [bypass_list]
 
