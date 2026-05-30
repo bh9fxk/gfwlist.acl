@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-05-29T14:01:41.609945+08:00
+# Date: 2026-05-30T13:38:35.857380+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1250,6 +1250,7 @@ iipdigital\.usembassy\.gov
 (^|\.)areca-backup\.org
 (^|\.)arethusa\.su
 (^|\.)arlingtoncemetery\.mil
+(^|\.)as\.mr
 (^|\.)asacp\.org
 (^|\.)asiaharvest\.org
 (^|\.)asianage\.com
@@ -1319,6 +1320,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bandwagonhost\.com
 ^bangchen\.net
 (^|\.)bangkokpost\.com
+(^|\.)bangumi\.tv
 (^|\.)bangyoulater\.com
 (^|\.)bannedbook\.org
 ^baramangaonline\.com
@@ -1349,6 +1351,7 @@ iipdigital\.usembassy\.gov
 (^|\.)betvictor\.com
 (^|\.)bfnn\.org
 (^|\.)bfsh\.hk
+(^|\.)bgm\.tv
 (^|\.)bgvpn\.com
 (^|\.)biblesforamerica\.org
 (^|\.)vpl\.bibliocommons\.com
@@ -1544,6 +1547,7 @@ iipdigital\.usembassy\.gov
 (^|\.)chenpokongvip\.com
 (^|\.)cherrysave\.com
 (^|\.)chhongbi\.org
+(^|\.)chii\.in
 (^|\.)china-week\.com
 (^|\.)china101\.com
 (^|\.)china18\.org
@@ -2069,6 +2073,7 @@ iipdigital\.usembassy\.gov
 (^|\.)geek-art\.net
 (^|\.)gekikame\.com
 ^gelbooru\.com
+(^|\.)gencraft\.com
 (^|\.)generated\.photos
 (^|\.)genius\.com
 (^|\.)geph\.io
@@ -2209,6 +2214,7 @@ iipdigital\.usembassy\.gov
 (^|\.)heyuedi\.com
 (^|\.)hiccears\.com
 (^|\.)hidden-advent\.org
+(^|\.)hiddify\.com
 (^|\.)hide\.me
 (^|\.)hideipvpn\.com
 (^|\.)hideman\.net
@@ -3837,6 +3843,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vimeocdn\.com
 (^|\.)vpsxb\.net
 (^|\.)vilanet\.me
+(^|\.)veed\.io
 (^|\.)vewas\.net
 (^|\.)v2\.help
 (^|\.)vocaroo\.com
@@ -4187,10 +4194,6 @@ iipdigital\.usembassy\.gov
 (^|\.)zuola\.com
 (^|\.)zvereff\.com
 (^|\.)zyxel\.com
-(^|\.)veed\.io
-(^|\.)gencraft\.com
-(^|\.)hiddify\.com
-(^|\.)as\.mr
 
 [bypass_list]
 
