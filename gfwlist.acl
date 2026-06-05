@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-05-30T13:38:35.857380+08:00
+# Date: 2026-06-05T14:10:08.472470+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -548,7 +548,6 @@ www\.aolnews\.com
 (^|\.)bloomberg\.de
 (^|\.)bloombergview\.com
 (^|\.)cloudflarestatus\.com
-(^|\.)pages\.dev
 (^|\.)workers\.dev
 (^|\.)one\.one\.one\.one
 (^|\.)cloudflare-dns\.com
@@ -3471,6 +3470,7 @@ iipdigital\.usembassy\.gov
 ^surfeasy\.com\.au
 (^|\.)surfshark\.com
 (^|\.)surrenderat20\.net
+(^|\.)suyingtv\.com
 (^|\.)swissinfo\.ch
 (^|\.)swissvpn\.net
 (^|\.)switchvpn\.net
@@ -4038,6 +4038,7 @@ iipdigital\.usembassy\.gov
 (^|\.)xijie\.wordpress\.com
 (^|\.)ifreechina\.wordpress\.com
 (^|\.)wp\.com
+(^|\.)wplace\.live
 (^|\.)wowporn\.com
 (^|\.)wowgirls\.com
 ^woyaolian\.org
