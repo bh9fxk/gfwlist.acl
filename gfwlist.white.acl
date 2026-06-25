@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-06-20T14:07:27.795615+08:00
+# Date: 2026-06-25T13:54:55.871264+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -89,6 +89,7 @@
 (^|\.)funkyimg\.com
 (^|\.)fxnetworks\.com
 (^|\.)g-area\.org
+(^|\.)get\.dappcdn\.com
 (^|\.)gettyimages\.ca
 (^|\.)gettyimages\.us
 (^|\.)gettyimages\.hk
