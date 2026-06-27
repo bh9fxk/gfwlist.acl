@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-06-26T13:58:21.563115+08:00
+# Date: 2026-06-27T13:43:27.928020+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1088,6 +1088,9 @@ www\.aolnews\.com
 (^|\.)teco-hk\.org
 (^|\.)teco-mo\.org
 (^|\.)kinmen\.org\.tw
+(^|\.)spaceforce\.mil
+(^|\.)airuniversity\.af\.edu
+(^|\.)supremecourt\.gov
 (^|\.)americorps\.gov
 (^|\.)dma\.mil
 (^|\.)jpl\.nasa\.gov
@@ -2122,6 +2125,8 @@ iipdigital\.usembassy\.gov
 (^|\.)fw\.cm
 (^|\.)fxcm-chinese\.com
 (^|\.)f95zone\.to
+(^|\.)gate\.com
+(^|\.)guangming\.com\.my
 (^|\.)g\.ai
 (^|\.)gmgn\.ai
 (^|\.)grokipedia\.com
@@ -2257,6 +2262,7 @@ iipdigital\.usembassy\.gov
 (^|\.)gumroad\.com
 (^|\.)gunsamerica\.com
 ^gvlib\.com
+(^|\.)hkong\.hk
 (^|\.)hive\.blog
 (^|\.)v2\.hysteria\.network
 (^|\.)hembed\.com
@@ -2555,6 +2561,7 @@ iipdigital\.usembassy\.gov
 (^|\.)justmysocks1\.net
 (^|\.)juziyue\.com
 (^|\.)cdn\.jwplayer\.com
+(^|\.)kfor\.com
 (^|\.)kathmandupost\.com
 (^|\.)kingkong\.com\.tw
 (^|\.)kanald\.com\.tr
@@ -3034,6 +3041,8 @@ iipdigital\.usembassy\.gov
 ^www\.oxid\.it
 (^|\.)ow\.ly
 (^|\.)ozvoice\.org
+(^|\.)perma\.cc
+(^|\.)pcgamesn\.com
 (^|\.)penguin\.com\.au
 (^|\.)prompthero\.com
 (^|\.)pdst\.fm
@@ -3238,6 +3247,7 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)restofworld\.org
 (^|\.)rts\.ch
 (^|\.)rawstory\.com
 (^|\.)recordedfuture\.com
@@ -3569,6 +3579,9 @@ iipdigital\.usembassy\.gov
 (^|\.)sylfoundation\.org
 (^|\.)syncback\.com
 (^|\.)sotwe\.com
+(^|\.)theintercept\.com
+(^|\.)trtworld\.com
+(^|\.)twstalker\.com
 (^|\.)tvdy1\.com
 (^|\.)tgstat\.com
 (^|\.)the-sun\.com
@@ -3732,7 +3745,7 @@ iipdigital\.usembassy\.gov
 (^|\.)tibetwrites\.org
 (^|\.)tigervpn\.com
 ^timdir\.com
-^time\.com
+(^|\.)time\.com
 (^|\.)timesnownews\.com
 (^|\.)timtales\.com
 (^|\.)blog\.tiney\.com
@@ -4007,6 +4020,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)washingtontimes\.com
 (^|\.)worldjournal\.com
 (^|\.)wispbyte\.com
 (^|\.)walletconnect\.org
@@ -4142,6 +4156,7 @@ iipdigital\.usembassy\.gov
 (^|\.)wujieliulan\.com
 (^|\.)wuw\.red
 (^|\.)wwitv\.com
+(^|\.)xuan\.com\.my
 (^|\.)xdaforums\.com
 (^|\.)xcancel\.com
 (^|\.)www\.xicons\.org
