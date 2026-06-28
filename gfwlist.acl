@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-06-27T13:43:27.928020+08:00
+# Date: 2026-06-28T14:04:52.825529+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2701,6 +2701,7 @@ iipdigital\.usembassy\.gov
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
 (^|\.)leonardo\.ai
+(^|\.)mhwindow\.org
 (^|\.)mas\.to
 (^|\.)mjj\.today
 (^|\.)mediamatters\.org
