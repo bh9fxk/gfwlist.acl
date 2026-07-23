@@ -3607,6 +3607,7 @@
         "(^|\\.)textnow\\.com",
         "(^|\\.)token\\.im",
         "(^|\\.)tokenlon\\.im",
+        "(^|\\.)tokenplus\\.app",
         "(^|\\.)tardigrade\\.io",
         "(^|\\.)torrentgalaxy\\.to",
         "(^|\\.)tomp3\\.cc",
@@ -4303,6 +4304,7 @@
     ],
     "whitelist": [
         "(^|\\.)www\\.gov\\.tw",
+        "(^|\\.).+\\.tokenplus\\.app",
         "(^|\\.)firebase-settings\\.crashlytics\\.com",
         "(^|\\.)cn\\.investing\\.com",
         "(^|\\.)www\\.typepad\\.com",
