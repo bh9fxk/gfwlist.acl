@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-08-02T13:13:14.404218+08:00
+# Date: 2026-08-03T13:26:44.971598+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1538,6 +1538,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)cht\.com\.tw
 (^|\.)cerebras\.ai
 (^|\.)circle19\.org
 (^|\.)clashyun\.com
@@ -1545,7 +1546,6 @@ iipdigital\.usembassy\.gov
 (^|\.)ctinsider\.com
 (^|\.)cia\.gov
 (^|\.)claude\.com
-(^|\.)www\.clashverge\.dev
 (^|\.)clementine-player\.org
 (^|\.)backend-v2\.crixet\.com
 (^|\.)cchostvps\.xyz
@@ -2846,7 +2846,6 @@ iipdigital\.usembassy\.gov
 ^motherless\.com
 (^|\.)movements\.org
 (^|\.)moviefap\.com
-(^|\.)mozilla\.ai
 (^|\.)www\.moztw\.org
 (^|\.)mpettis\.com
 (^|\.)mpfinance\.com
@@ -3066,7 +3065,6 @@ iipdigital\.usembassy\.gov
 (^|\.)pancakeswap\.finance
 (^|\.)img\.picgo\.net
 (^|\.)pornmate\.com
-(^|\.)puredns\.org
 (^|\.)polymarket\.com
 (^|\.)pandafan\.pub
 (^|\.)proxz\.com
@@ -3261,7 +3259,6 @@ iipdigital\.usembassy\.gov
 (^|\.)rawstory\.com
 (^|\.)recordedfuture\.com
 (^|\.)roblox\.com
-(^|\.)radiojar\.com
 (^|\.)radio\.co
 (^|\.)rustdesk\.com
 (^|\.)rentry\.co
@@ -3367,7 +3364,6 @@ iipdigital\.usembassy\.gov
 (^|\.)swapspace\.co
 (^|\.)storry\.tv
 (^|\.)standard\.co\.uk
-(^|\.)sagernet\.org
 (^|\.)simplex\.chat
 (^|\.)soundon\.fm
 (^|\.)ssrtool\.com
