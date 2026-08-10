@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-08-07T12:16:12.631662+08:00
+# Date: 2026-08-10T11:41:00.118592+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1204,6 +1204,9 @@ iipdigital\.usembassy\.gov
 (^|\.)9bis\.com
 (^|\.)9bis\.net
 (^|\.)9news\.com\.au
+(^|\.)basemaps\.arcgis\.com
+(^|\.)experience\.arcgis\.com
+(^|\.)aihub\.top
 (^|\.)accountboy\.com
 (^|\.)acg\.mn
 (^|\.)asiasociety\.org
@@ -3253,6 +3256,7 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)esim\.redteago\.com
 (^|\.)restofworld\.org
 (^|\.)rts\.ch
 (^|\.)rawstory\.com
