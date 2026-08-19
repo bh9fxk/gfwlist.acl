@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-08-18T10:44:49.519679+08:00
+# Date: 2026-08-19T10:47:12.164540+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -297,6 +297,7 @@
 (^|\.)xn--9pr62r24a\.com
 (^|\.)xn--ngstr-lra8j\.com
 (^|\.)xn--vuqv2cf7wzyig79c\.com
+(^|\.)s3\.dualstack\.us-west-2\.amazonaws\.com
 (^|\.)music\.amazon\.com
 (^|\.)cdn-images\.mailchimp\.com
 (^|\.)abebooks\.com
@@ -2983,6 +2984,7 @@ iipdigital\.usembassy\.gov
 (^|\.)nyaa\.si
 (^|\.)nybooks\.com
 (^|\.)nypost\.com
+(^|\.)oldmapsonline\.org
 (^|\.)umap\.openstreetmap\.fr
 (^|\.)overdrive\.com
 (^|\.)openart\.ai
@@ -4034,6 +4036,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)windy\.com
 (^|\.)washingtontimes\.com
 (^|\.)worldjournal\.com
 (^|\.)wispbyte\.com
