@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-08-31T15:47:03.361539+08:00
+# Date: 2026-09-05T14:24:30.464740+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1082,6 +1082,8 @@ www\.aolnews\.com
 (^|\.)twitter\.jp
 (^|\.)vine\.co
 (^|\.)x\.com
+(^|\.)taiwanembassy\.org
+(^|\.)roc-taiwan\.org
 (^|\.)twgov\.tw
 (^|\.)gov\.tw
 (^|\.)gov\.taipei
@@ -1133,6 +1135,8 @@ iipdigital\.usembassy\.gov
 (^|\.)yahoo\.com\.tw
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
+(^|\.)123av\.me
+(^|\.)123av\.com
 (^|\.)18comic\.vip
 (^|\.)18mh\.net
 (^|\.)24hbook\.com
@@ -1543,6 +1547,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)ctee\.com\.tw
 (^|\.)chatgpt\.site
 (^|\.)cht\.com\.tw
 (^|\.)cerebras\.ai
@@ -2275,6 +2280,8 @@ iipdigital\.usembassy\.gov
 (^|\.)gumroad\.com
 (^|\.)gunsamerica\.com
 ^gvlib\.com
+(^|\.)hentai\.tv
+(^|\.)hkej\.com
 (^|\.)hkong\.hk
 (^|\.)hive\.blog
 (^|\.)v2\.hysteria\.network
@@ -2627,6 +2634,7 @@ iipdigital\.usembassy\.gov
 (^|\.)kxsw\.life
 (^|\.)kzaobao\.com
 (^|\.)kzeng\.info
+(^|\.)linux\.sb
 (^|\.)level-plus\.net
 (^|\.)libgen\.is
 (^|\.)lemonde\.fr
@@ -3267,6 +3275,7 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)roushuwo\.com
 (^|\.)esim\.redteago\.com
 (^|\.)restofworld\.org
 (^|\.)rts\.ch
@@ -3362,6 +3371,7 @@ iipdigital\.usembassy\.gov
 ^rxhj\.net
 (^|\.)raphael\.app
 (^|\.)rule34\.us
+(^|\.)supjav\.com
 (^|\.)api\.shuaiapi\.com
 (^|\.)sb\.sb
 (^|\.)sysub\.com
@@ -3601,6 +3611,7 @@ iipdigital\.usembassy\.gov
 (^|\.)sylfoundation\.org
 (^|\.)syncback\.com
 (^|\.)sotwe\.com
+(^|\.)taiav\.com
 (^|\.)tryai\.dev
 (^|\.)theintercept\.com
 (^|\.)trtworld\.com
@@ -4045,6 +4056,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)wtfpass\.com
 (^|\.)write\.as
 (^|\.)windy\.com
 (^|\.)washingtontimes\.com
