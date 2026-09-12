@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-09-05T14:24:30.464740+08:00
+# Date: 2026-09-12T14:37:00.835182+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -418,7 +418,6 @@
 (^|\.)tubepornclassic\.com
 (^|\.)uku\.im
 (^|\.)unseen\.is
-(^|\.)cn\.uptodown\.com
 (^|\.)uraban\.me
 (^|\.)vrsmash\.com
 (^|\.)vultryhw\.com
@@ -575,37 +574,22 @@
 (^|\.)futuhkapp\.com
 (^|\.)fututrade\.com
 (^|\.)fututrustee\.com
-(^|\.)cdn\.futustatic\.com
 (^|\.)api\.moomoobull\.com
 (^|\.)moomooequity\.com
 (^|\.)moomootrustee\.com
 (^|\.)9oju31\.launches\.appsflyersdk\.com
 (^|\.)sgqt0j\.launches\.appsflyersdk\.com
 (^|\.)shortconn\.im\.qcloud\.com
-(^|\.)api\.lbkrs\.com
-(^|\.)api-gl\.lbkrs\.com
 (^|\.)longbridge\.cloud
 (^|\.)longbridge\.sg
 (^|\.)tigerbrokers\.com
 (^|\.)tigerbrokers\.net
 (^|\.)tigerbrokers\.nz
 (^|\.)quote\.longbridge\.global
-(^|\.)trade\.longportapp\.com
-(^|\.)openapi\.longbridge\.com
-(^|\.)openapi-quote\.longbridge\.com
-(^|\.)openapi-trade\.longbridge\.com
 (^|\.)openapi\.longbridge\.cn
 (^|\.)openapi-quote\.longbridge\.cn
 (^|\.)openapi-trade\.longbridge\.cn
 (^|\.)cg\.play-analytics\.com
-(^|\.)qtcard\.futunn\.com
-(^|\.)qtcardfthk\.futufin\.com
-(^|\.)openapi\.futunn\.com
-(^|\.)api\.futunn\.com
-(^|\.)api5\.futunn\.com
-(^|\.)trade\.futunn\.com
-(^|\.)support\.futunn\.com
-(^|\.)download\.futunn\.com
 (^|\.)read01\.com
 (^|\.)kknews\.cc
 (^|\.)china-mmm\.net
@@ -2352,7 +2336,6 @@ iipdigital\.usembassy\.gov
 (^|\.)hkdc\.us
 (^|\.)hket\.com
 (^|\.)hkfaa\.com
-^m\.hkgalden\.com
 (^|\.)hkgpao\.com
 (^|\.)hklts\.org\.hk
 (^|\.)hkmap\.live
@@ -3258,6 +3241,7 @@ iipdigital\.usembassy\.gov
 (^|\.)pursuestar\.com
 (^|\.)pximg\.net
 (^|\.)python\.com\.tw
+(^|\.)quakemachinex\.com
 ^qmp4\.com
 (^|\.)qianmo\.tw
 (^|\.)qbittorrent\.org
@@ -4349,7 +4333,6 @@ iipdigital\.usembassy\.gov
 (^|\.)www\.gov\.tw
 (^|\.).+\.tokenplus\.app
 (^|\.)firebase-settings\.crashlytics\.com
-(^|\.)cn\.investing\.com
 (^|\.)www\.typepad\.com
 (^|\.)static\.typepad\.com
 (^|\.)ci\.android\.com
