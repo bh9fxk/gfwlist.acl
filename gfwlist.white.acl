@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-10-03T15:11:06.482036+08:00
+# Date: 2026-10-06T16:14:20.264725+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.white.acl
 #
 
@@ -1066,6 +1066,22 @@ www\.aolnews\.com
 (^|\.)twitter\.jp
 (^|\.)vine\.co
 (^|\.)x\.com
+(^|\.)khc\.edu\.tw
+(^|\.)vscc\.org\.tw
+(^|\.)poland\.tw
+(^|\.)tybio\.com\.tw
+(^|\.)twfhcsec\.com\.tw
+(^|\.)ttl\.com\.tw
+(^|\.)tfd\.org\.tw
+(^|\.)nstc\.org\.tw
+(^|\.)mirdc\.org\.tw
+(^|\.)landbank\.com\.tw
+(^|\.)indsr\.org\.tw
+(^|\.)icdf\.org\.tw
+(^|\.)eximbank\.com\.tw
+(^|\.)csc\.com\.tw
+(^|\.)cpc\.com\.tw
+(^|\.)aidc\.com\.tw
 (^|\.)taiwanembassy\.org
 (^|\.)roc-taiwan\.org
 (^|\.)twgov\.tw
@@ -1075,6 +1091,7 @@ www\.aolnews\.com
 (^|\.)teco-hk\.org
 (^|\.)teco-mo\.org
 (^|\.)kinmen\.org\.tw
+(^|\.)ned\.org
 (^|\.)spaceforce\.mil
 (^|\.)airuniversity\.af\.edu
 (^|\.)supremecourt\.gov
@@ -1366,6 +1383,8 @@ iipdigital\.usembassy\.gov
 (^|\.)axureformac\.com
 (^|\.)azirevpn\.com
 (^|\.)boxun.+\.azurewebsites\.net
+(^|\.)boylove\.cc
+(^|\.)blue-plus\.net
 (^|\.)briarproject\.org
 (^|\.)bilinovel\.com
 (^|\.)boomplay\.com
@@ -1531,6 +1550,7 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)cangku\.moe
 (^|\.)chineseposters\.net
 (^|\.)ctee\.com\.tw
 (^|\.)chatgpt\.site
@@ -1773,6 +1793,7 @@ iipdigital\.usembassy\.gov
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)dh\.net
 (^|\.)divdyn\.com
 (^|\.)data18\.com
 (^|\.)dt18\.com
@@ -2267,6 +2288,9 @@ iipdigital\.usembassy\.gov
 (^|\.)gumroad\.com
 (^|\.)gunsamerica\.com
 ^gvlib\.com
+(^|\.)hentaiclub\.net
+(^|\.)hanimeone\.me
+(^|\.)hanime1\.com
 (^|\.)hentai\.tv
 (^|\.)hkej\.com
 (^|\.)hkong\.hk
@@ -2398,6 +2422,7 @@ iipdigital\.usembassy\.gov
 (^|\.)hyperrate\.com
 (^|\.)hypothes\.is
 (^|\.)ebook\.hyread\.com\.tw
+(^|\.)ipac\.global
 (^|\.)infosec\.exchange
 (^|\.)investing\.com
 (^|\.)idcflare\.com
@@ -2520,6 +2545,9 @@ iipdigital\.usembassy\.gov
 (^|\.)ixquick\.com
 (^|\.)iyouport\.com
 (^|\.)iyouport\.org
+(^|\.)javchu\.com
+(^|\.)jkforum\.net
+(^|\.)javfree\.me
 (^|\.)jhelab\.org
 (^|\.)justmysockscn\.com
 (^|\.)justmysocks\.net
@@ -2710,6 +2738,8 @@ iipdigital\.usembassy\.gov
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
 (^|\.)leonardo\.ai
+(^|\.)matichon\.co\.th
+(^|\.)moeli-desu\.com
 (^|\.)muse\.ai
 (^|\.)historylines\.net
 (^|\.)kiwix\.org
@@ -2728,6 +2758,8 @@ iipdigital\.usembassy\.gov
 (^|\.)mjj\.rip
 (^|\.)mcusercontent\.com
 (^|\.)metamask\.io
+(^|\.)missav\.live
+(^|\.)missav\.ai
 (^|\.)missav\.ws
 (^|\.)news\.mt\.co\.kr
 (^|\.)musixmatch\.com
@@ -2876,6 +2908,7 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)nationthailand\.com
 (^|\.)note\.com
 (^|\.)nthlink\.com
 (^|\.)neodb\.social
@@ -3246,6 +3279,7 @@ iipdigital\.usembassy\.gov
 (^|\.)pursuestar\.com
 (^|\.)pximg\.net
 (^|\.)python\.com\.tw
+(^|\.)qingse\.one
 (^|\.)qobuz\.com
 (^|\.)quakemachinex\.com
 ^qmp4\.com
@@ -3265,6 +3299,7 @@ iipdigital\.usembassy\.gov
 (^|\.)qtrac\.eu
 (^|\.)quitccp\.org
 ^quran\.com
+(^|\.)rocmgov\.org
 (^|\.)roushuwo\.com
 (^|\.)esim\.redteago\.com
 (^|\.)restofworld\.org
@@ -4189,6 +4224,7 @@ iipdigital\.usembassy\.gov
 (^|\.)wujieliulan\.com
 (^|\.)wuw\.red
 (^|\.)wwitv\.com
+(^|\.)xx\.net
 (^|\.)x86\.fr
 (^|\.)xuan\.com\.my
 (^|\.)xdaforums\.com
