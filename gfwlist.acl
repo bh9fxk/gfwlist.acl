@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-10-24T14:35:49.846480+08:00
+# Date: 2026-10-25T15:02:36.521576+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1138,6 +1138,7 @@ iipdigital\.usembassy\.gov
 (^|\.)yahoo\.com\.tw
 (^|\.)yahoo\.com\.hk
 (^|\.)yahoo\.com
+(^|\.)123av\.org
 (^|\.)7x24hrs\.com
 (^|\.)123av\.me
 (^|\.)123av\.com
@@ -1920,6 +1921,7 @@ iipdigital\.usembassy\.gov
 (^|\.)dwnews\.net
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
+(^|\.)movie\.eroterest\.net
 (^|\.)edigest\.hk
 (^|\.)app\.element\.io
 (^|\.)economist\.com
@@ -2600,6 +2602,7 @@ iipdigital\.usembassy\.gov
 (^|\.)justmysocks1\.net
 (^|\.)juziyue\.com
 (^|\.)cdn\.jwplayer\.com
+(^|\.)kimootoko\.net
 (^|\.)kards\.com
 (^|\.)kfor\.com
 (^|\.)kathmandupost\.com
@@ -2743,6 +2746,7 @@ iipdigital\.usembassy\.gov
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
 (^|\.)leonardo\.ai
+(^|\.)minkch\.com
 (^|\.)matichon\.co\.th
 (^|\.)moeli-desu\.com
 (^|\.)muse\.ai
@@ -2913,6 +2917,9 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)njavtv\.com
+(^|\.)njav\.tv
+(^|\.)njav\.com
 (^|\.)nationthailand\.com
 (^|\.)note\.com
 (^|\.)nthlink\.com
@@ -3096,6 +3103,7 @@ iipdigital\.usembassy\.gov
 ^www\.oxid\.it
 (^|\.)ow\.ly
 (^|\.)ozvoice\.org
+(^|\.)po-kaki-to\.com
 (^|\.)perma\.cc
 (^|\.)pcgamesn\.com
 (^|\.)penguin\.com\.au
@@ -4329,6 +4337,7 @@ iipdigital\.usembassy\.gov
 (^|\.)yyjlymb\.xyz
 (^|\.)yysub\.net
 (^|\.)yzzk\.com
+(^|\.)zozovideo\.com
 (^|\.)zenmux\.ai
 (^|\.)zhangzhehan\.net
 (^|\.)zaochenbao\.com
