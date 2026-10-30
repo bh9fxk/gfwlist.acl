@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-10-25T15:02:36.521576+08:00
+# Date: 2026-10-30T15:49:52.668940+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -29,6 +29,7 @@
 (^|\.)angela-merkel\.de
 (^|\.)angola\.org
 (^|\.)anthropic\.com
+(^|\.)anthropic\.auth0\.com
 (^|\.)apartmentratings\.com
 (^|\.)apartments\.com
 (^|\.)arena\.taipei
@@ -50,6 +51,9 @@
 (^|\.)ciciai\.com
 (^|\.)cici\.com
 (^|\.)claude\.ai
+(^|\.)claude\.app
+(^|\.)claudeusercontent\.com
+(^|\.)claudemcpcontent\.com
 (^|\.)clearsurance\.com
 (^|\.)cnbeta\.com\.tw
 (^|\.)counter\.social
@@ -1532,6 +1536,7 @@ iipdigital\.usembassy\.gov
 (^|\.)brookings\.edu
 (^|\.)brutaltgp\.com
 (^|\.)bsky\.app
+(^|\.)bsky\.chat
 (^|\.)bsky\.network
 (^|\.)bsky\.social
 (^|\.)bt95\.com
