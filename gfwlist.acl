@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-11-04T16:12:22.481003+08:00
+# Date: 2026-11-05T16:39:08.041086+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -2939,7 +2939,7 @@ iipdigital\.usembassy\.gov
 (^|\.)namu\.wiki
 (^|\.)nirsoft\.net
 (^|\.)naver\.com
-(^|\.)maven\.neoforged\.net
+(^|\.)neoforged\.net
 (^|\.)nftstorage\.link
 (^|\.)newindianexpress\.com
 (^|\.)news18\.com
