@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-11-14T16:12:59.025944+08:00
+# Date: 2026-11-20T17:18:23.775867+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1805,6 +1805,7 @@ iipdigital\.usembassy\.gov
 (^|\.)ifan\.cz\.cc
 (^|\.)mike\.cz\.cc
 (^|\.)nic\.cz\.cc
+(^|\.)duck\.ai
 (^|\.)dh\.net
 (^|\.)divdyn\.com
 (^|\.)data18\.com
@@ -2162,6 +2163,7 @@ iipdigital\.usembassy\.gov
 (^|\.)fw\.cm
 (^|\.)fxcm-chinese\.com
 (^|\.)f95zone\.to
+(^|\.)gamma\.app
 (^|\.)c\.go-mpulse\.net
 (^|\.)getmonero\.org
 (^|\.)gate\.com
@@ -2186,7 +2188,6 @@ iipdigital\.usembassy\.gov
 (^|\.)gabocorp\.com
 (^|\.)gagaoolala\.com
 (^|\.)galenwu\.com
-(^|\.)game735\.com
 ^wiki\.gamerp\.jp
 (^|\.)gamer\.com\.tw
 (^|\.)gamez\.com\.tw
@@ -3416,6 +3417,7 @@ iipdigital\.usembassy\.gov
 ^rxhj\.net
 (^|\.)raphael\.app
 (^|\.)rule34\.us
+(^|\.)soulogic\.com
 (^|\.)sing-box\.sagernet\.org
 (^|\.)supjav\.com
 (^|\.)api\.shuaiapi\.com
