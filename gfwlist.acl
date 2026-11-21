@@ -1,6 +1,6 @@
 #
 # Home: https://github.com/NateScarlet/gfwlist.acl
-# Date: 2026-11-20T17:18:23.775867+08:00
+# Date: 2026-11-21T16:54:40.343543+08:00
 # URL: https://raw.githubusercontent.com/NateScarlet/gfwlist.acl/master/gfwlist.acl
 #
 
@@ -1561,6 +1561,9 @@ iipdigital\.usembassy\.gov
 (^|\.)bvpn\.com
 (^|\.)bwh1\.net
 (^|\.)bypasscensorship\.org
+(^|\.)cnyes\.com
+(^|\.)cmoney\.tw
+(^|\.)cmmedia\.com\.tw
 (^|\.)console\.typesafe\.ai
 (^|\.)cangku\.moe
 (^|\.)chineseposters\.net
@@ -1929,6 +1932,7 @@ iipdigital\.usembassy\.gov
 (^|\.)dwnews\.net
 (^|\.)dynawebinc\.com
 (^|\.)dysfz\.cc
+(^|\.)e-info\.org\.tw
 (^|\.)movie\.eroterest\.net
 (^|\.)edigest\.hk
 (^|\.)app\.element\.io
@@ -2163,6 +2167,7 @@ iipdigital\.usembassy\.gov
 (^|\.)fw\.cm
 (^|\.)fxcm-chinese\.com
 (^|\.)f95zone\.to
+(^|\.)greenbean\.media
 (^|\.)gamma\.app
 (^|\.)c\.go-mpulse\.net
 (^|\.)getmonero\.org
@@ -2302,6 +2307,9 @@ iipdigital\.usembassy\.gov
 (^|\.)gumroad\.com
 (^|\.)gunsamerica\.com
 ^gvlib\.com
+(^|\.)hkfeature\.com
+(^|\.)hkcourtnews\.com
+(^|\.)hkcitycreation\.com
 (^|\.)hentaiclub\.net
 (^|\.)hanimeone\.me
 (^|\.)hanime1\.com
@@ -2664,6 +2672,8 @@ iipdigital\.usembassy\.gov
 (^|\.)kxsw\.life
 (^|\.)kzaobao\.com
 (^|\.)kzeng\.info
+(^|\.)limedia\.tw
+(^|\.)lifesitenews\.com
 (^|\.)linux\.sb
 (^|\.)level-plus\.net
 (^|\.)libgen\.is
@@ -2754,6 +2764,9 @@ iipdigital\.usembassy\.gov
 (^|\.)lzjscript\.com
 (^|\.)lzmtnews\.org
 (^|\.)leonardo\.ai
+(^|\.)my-formosa\.com\.tw
+(^|\.)moneynet\.com\.tw
+(^|\.)master-insight\.com
 (^|\.)minkch\.com
 (^|\.)matichon\.co\.th
 (^|\.)moeli-desu\.com
@@ -2925,6 +2938,7 @@ iipdigital\.usembassy\.gov
 (^|\.)myparagliding\.com
 (^|\.)mypopescu\.com
 (^|\.)myspacecdn\.com
+(^|\.)nextapple\.com
 (^|\.)njavtv\.com
 (^|\.)njav\.tv
 (^|\.)njav\.com
@@ -3111,6 +3125,8 @@ iipdigital\.usembassy\.gov
 ^www\.oxid\.it
 (^|\.)ow\.ly
 (^|\.)ozvoice\.org
+(^|\.)pulsehknews\.com
+(^|\.)passiontimes\.hk
 (^|\.)po-kaki-to\.com
 (^|\.)perma\.cc
 (^|\.)pcgamesn\.com
@@ -3417,6 +3433,8 @@ iipdigital\.usembassy\.gov
 ^rxhj\.net
 (^|\.)raphael\.app
 (^|\.)rule34\.us
+(^|\.)singpao\.com\.hk
+(^|\.)shanghainationalparty\.com
 (^|\.)soulogic\.com
 (^|\.)sing-box\.sagernet\.org
 (^|\.)supjav\.com
@@ -3659,6 +3677,12 @@ iipdigital\.usembassy\.gov
 (^|\.)sylfoundation\.org
 (^|\.)syncback\.com
 (^|\.)sotwe\.com
+(^|\.)thewitnesshk\.com
+(^|\.)thestar\.com
+(^|\.)thestandard\.com\.hk
+(^|\.)theonlinecitizen\.com
+(^|\.)thecollectivehk\.com
+(^|\.)taiwantoday\.tw
 (^|\.)api\.themoviedb\.org
 (^|\.)torrentleech\.org
 (^|\.)taiav\.com
@@ -4107,6 +4131,7 @@ iipdigital\.usembassy\.gov
 (^|\.)vrchat\.com
 (^|\.)vrporn\.com
 (^|\.)vtunnel\.com
+(^|\.)womany\.net
 (^|\.)wallhaven\.cc
 (^|\.)wtfpass\.com
 (^|\.)write\.as
@@ -4295,6 +4320,7 @@ iipdigital\.usembassy\.gov
 ^xxx\.xxx
 (^|\.)xxxx\.com\.au
 ^xxxymovies\.com
+(^|\.)mc\.yandex\.ru
 (^|\.)youversionapi\.com
 (^|\.)yfsp\.tv
 (^|\.)youmind\.com
